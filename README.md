@@ -18,7 +18,7 @@ $$y_t(\tau) = \beta_{1t} + \beta_{2t} \left( \frac{1 - e^{-\lambda_1 \tau}}{\lam
 
 Diebold-Li model 
 
-$$y_t(\tau) = \beta_{1t} + \beta_{2t} \left( \frac{1 - e^{-\lambda \tau}}{\lambda \tau} \right) + \beta_{3t} \left( \frac{1 - e^{-\lambda \tau}}{\lambda \tau}\right)$$
+$$y_t(\tau) = \beta_{1t} + \beta_{2t} \left( \frac{1 - e^{-\lambda \tau}}{\lambda \tau} \right) + \beta_{3t} \left( \frac{1 - e^{-\lambda \tau}}{\lambda \tau}- e^{-\lambda \tau}\right)$$
 
 where
 
