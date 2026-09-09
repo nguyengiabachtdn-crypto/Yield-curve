@@ -16,6 +16,10 @@ NSS model
 
 $$y_t(\tau) = \beta_{1t} + \beta_{2t} \left( \frac{1 - e^{-\lambda_1 \tau}}{\lambda_1 \tau} \right) + \beta_{3t} \left( \frac{1 - e^{-\lambda_1 \tau}}{\lambda_1 \tau} - e^{-\lambda_1 \tau} \right) + \beta_{4t} \left( \frac{1 - e^{-\lambda_2 \tau}}{\lambda_2 \tau} - e^{-\lambda_2 \tau} \right)$$
 
+Diebold-Li model 
+
+$$y_t(\tau) = \beta_{1t} + \beta_{2t} \left( \frac{1 - e^{-\lambda_1 \tau}}{\lambda_1 \tau} \right) + \beta_{3t} \left( \frac{1 - e^{-\lambda_1 \tau}}{\lambda_1 \tau}$$
+
 where
 
 * **$\beta_{1t}$ (Level Factor):** Long-term asymptotic yield level 
