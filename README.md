@@ -1,7 +1,7 @@
 # Yield-curve-fitting
 
 # Overview
-This repo is my attempt at fitting different yield curve models, like the NSS or the Diebold-Li dynamic parameterization. These factors are dynamically modeled over time to generate 1-day ($h=1$) and 21-day ($h=21$) out-of-sample yield curve predictions, evaluated against a Naive Persistence (Random Walk) benchmark.
+This repo is my attempt at fitting different yield curve models, like the NSS or the Diebold-Li dynamic parameterization. These factors are dynamically modeled over time to generate 1-day ($h=1$) and out-of-sample yield curve predictions, evaluated against a Naive Persistence (Random Walk) benchmark.
 
 # Features
 This notebook features
